@@ -295,13 +295,3 @@ def rocket_move():
     if tilt == 1 and rocket.x < 780:
         rocket.angle = -3
         rocket.x += 1.5
-#level 1:
-#make rocket go up and down when flying
-#fix airplane
-#add 'press space to launch' text
-#fix gameover screen
-#don't let rocket leave boundary
-
-#level 2:
-#fix level 2 text
-#add powerups
